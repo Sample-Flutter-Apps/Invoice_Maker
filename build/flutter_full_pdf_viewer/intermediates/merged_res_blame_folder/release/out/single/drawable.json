@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/i331299/Development/flutter/demo/invoice_maker_2/build/flutter_full_pdf_viewer/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/i331299/.gradle/caches/transforms-2/files-2.1/6680ba49d61055ca0304504b83bc36b9/core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/i331299/Development/flutter/demo/invoice_maker_2/build/flutter_full_pdf_viewer/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/i331299/.gradle/caches/transforms-2/files-2.1/6680ba49d61055ca0304504b83bc36b9/core-1.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/i331299/Development/flutter/demo/invoice_maker_2/build/flutter_full_pdf_viewer/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/i331299/.gradle/caches/transforms-2/files-2.1/6680ba49d61055ca0304504b83bc36b9/core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/i331299/Development/flutter/demo/invoice_maker_2/build/flutter_full_pdf_viewer/intermediates/res/merged/release/drawable/default_scroll_handle_left.xml",
+        "source": "/Users/i331299/.gradle/caches/transforms-2/files-2.1/386b5a494e54c8203a228b94ab365c29/jetified-android-pdf-viewer-2.8.2/res/drawable/default_scroll_handle_left.xml"
+    },
+    {
+        "merged": "/Users/i331299/Development/flutter/demo/invoice_maker_2/build/flutter_full_pdf_viewer/intermediates/res/merged/release/drawable/default_scroll_handle_top.xml",
+        "source": "/Users/i331299/.gradle/caches/transforms-2/files-2.1/386b5a494e54c8203a228b94ab365c29/jetified-android-pdf-viewer-2.8.2/res/drawable/default_scroll_handle_top.xml"
+    },
+    {
+        "merged": "/Users/i331299/Development/flutter/demo/invoice_maker_2/build/flutter_full_pdf_viewer/intermediates/res/merged/release/drawable/default_scroll_handle_right.xml",
+        "source": "/Users/i331299/.gradle/caches/transforms-2/files-2.1/386b5a494e54c8203a228b94ab365c29/jetified-android-pdf-viewer-2.8.2/res/drawable/default_scroll_handle_right.xml"
+    },
+    {
+        "merged": "/Users/i331299/Development/flutter/demo/invoice_maker_2/build/flutter_full_pdf_viewer/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/i331299/.gradle/caches/transforms-2/files-2.1/6680ba49d61055ca0304504b83bc36b9/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/i331299/Development/flutter/demo/invoice_maker_2/build/flutter_full_pdf_viewer/intermediates/res/merged/release/drawable/default_scroll_handle_bottom.xml",
+        "source": "/Users/i331299/.gradle/caches/transforms-2/files-2.1/386b5a494e54c8203a228b94ab365c29/jetified-android-pdf-viewer-2.8.2/res/drawable/default_scroll_handle_bottom.xml"
+    }
+]
